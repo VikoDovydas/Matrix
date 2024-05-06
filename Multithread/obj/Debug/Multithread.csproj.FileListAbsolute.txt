@@ -1,0 +1,7 @@
+C:\Users\98 LP\Desktop\C sharpas\Multithread\bin\Debug\Multithread.exe.config
+C:\Users\98 LP\Desktop\C sharpas\Multithread\bin\Debug\Multithread.exe
+C:\Users\98 LP\Desktop\C sharpas\Multithread\bin\Debug\Multithread.pdb
+C:\Users\98 LP\Desktop\C sharpas\Multithread\obj\Debug\Multithread.csproj.AssemblyReference.cache
+C:\Users\98 LP\Desktop\C sharpas\Multithread\obj\Debug\Multithread.csproj.CoreCompileInputs.cache
+C:\Users\98 LP\Desktop\C sharpas\Multithread\obj\Debug\Multithread.exe
+C:\Users\98 LP\Desktop\C sharpas\Multithread\obj\Debug\Multithread.pdb
